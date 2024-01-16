@@ -11,8 +11,8 @@ const bot = new Client({
     ],
 });
 
-const TOKEN = 'MTE5NjE4MjU5OTc5ODg5ODc2OA.GYZlVP.XOXdzK9MI297BUIAakH9_v7abfX-OIp3O1lDuI';
-const etherscanApiKey = 'BA9EG8R137IBQC19ER1YGRIRUGCIRCJVSB';
+const TOKEN = '$#%#$%^Y$%&%^*U^%&*U^&*UHJGYtv7abfX-OIp3yfh'; // discord token
+const etherscanApiKey = '++++++@$@$@#$#$%$^$%^GCIRCyrey5';  //  EtherscanApi
 
 // Command to fetch recent Ethereum transactions
 bot.on('ready', () => {
