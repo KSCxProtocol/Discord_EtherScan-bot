@@ -13,7 +13,7 @@ Installation
 
 Clone the repository:
 
-git clone https://github.com/your-username/ethereum-transactions-bot.git
+git clone https://github.com/vrathikshenoy/Discord_EtherScan-bot.git
 Install dependencies:
 
 npm install
