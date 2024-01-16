@@ -22,7 +22,7 @@ bot.on('ready', () => {
 bot.on('messageCreate', async (message) => {
     if (message.content.startsWith('!getTransactions')) {
         try { 
-            const commandArgs = message.content.split(' ');
+            const commandArgs = message.content.split(' ');  /// Eg : !getTransactions Address (space is madatory)
             const address = commandArgs[1];
             console.log(address);
             const apiEndpoint = `https://api.etherscan.io/api?module=account&action=txlist&address=${address}&sort=desc&apikey=${etherscanApiKey}`;
