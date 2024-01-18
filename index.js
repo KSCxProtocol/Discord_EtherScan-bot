@@ -1,7 +1,7 @@
 const { Client, GatewayIntentBits } = require('discord.js');
 const axios = require('axios');
 
-// ... other code
+
 
 const bot = new Client({
     intents: [
