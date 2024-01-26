@@ -2,15 +2,15 @@
 
 This Discord bot allows you to fetch recent Ethereum transactions for a specified address using the Etherscan API. The bot is built using Discord.js and Axios.
 
-Getting Started
+##Getting Started
 
-Prerequisites
+- Prerequisites
 
-Node.js installed on your machine
-Discord bot token (create a bot on the Discord Developer Portal)
-Etherscan API key (register on Etherscan for an API key)
-Installation
-
+ *Node.js installed on your machine
+ *Discord bot token (create a bot on the Discord Developer Portal)
+ *Etherscan API key (register on Etherscan for an API key)
+ 
+-Installation
 
 Install dependencies:
 
