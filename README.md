@@ -1,4 +1,4 @@
-Discord Ethereum Transactions Bot
+## Discord Ethereum Transactions Bot
 
 This Discord bot allows you to fetch recent Ethereum transactions for a specified address using the Etherscan API. The bot is built using Discord.js and Axios.
 
