@@ -33,7 +33,8 @@ Run the bot:
 node bot.js
 Invite the bot to your Discord server.
 
-In your Discord server, use the command !getTransactions <ETH_ADDRESS> to fetch recent Ethereum transactions for the specified address.
+In your Discord server, use the command :
+ - !getTransactions <ETH_ADDRESS>  ( to fetch recent Ethereum transactions for the specified address ).
 
 ## Example
 
