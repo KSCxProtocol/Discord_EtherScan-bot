@@ -10,11 +10,11 @@ This Discord bot allows you to fetch recent Ethereum transactions for a specifie
 * Discord bot token (create a bot on the Discord Developer Portal)
 * Etherscan API key (register on Etherscan for an API key)
  
--Installation
+- Installation
 
 Install dependencies:
 
-npm install
+$ npm install
 Update the configuration:
 
 Open bot.js and replace the following placeholders with your own values:
