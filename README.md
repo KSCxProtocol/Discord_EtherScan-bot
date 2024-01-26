@@ -19,11 +19,11 @@ Update the configuration:
 
 Open bot.js and replace the following placeholders with your own values:
 
-  env
-   YOUR_DISCORD_BOT_TOKEN with your Discord bot token
-   YOUR_ETHERSCAN_API_KEY with your Etherscan API key
-   const TOKEN = 'YOUR_DISCORD_BOT_TOKEN';
-   const etherscanApiKey = 'YOUR_ETHERSCAN_API_KEY';  
+
+      YOUR_DISCORD_BOT_TOKEN with your Discord bot token
+      YOUR_ETHERSCAN_API_KEY with your Etherscan API key
+      const TOKEN = 'YOUR_DISCORD_BOT_TOKEN';
+      const etherscanApiKey = 'YOUR_ETHERSCAN_API_KEY';  
 
 ## Usage
 
