@@ -40,6 +40,6 @@ In your Discord server, use the command :
 
 !getTransactions 0x4bbeEB066eD09B7AEd07bF39EEe0460DFa261520
 
-### Contributing
+## Contributing
 
 Feel free to open issues or contribute to the project. Pull requests are welcome!
