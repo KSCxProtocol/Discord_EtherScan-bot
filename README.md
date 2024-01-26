@@ -11,9 +11,7 @@ Discord bot token (create a bot on the Discord Developer Portal)
 Etherscan API key (register on Etherscan for an API key)
 Installation
 
-Clone the repository:
 
-git clone https://github.com/vrathikshenoy/Discord_EtherScan-bot.git
 Install dependencies:
 
 npm install
